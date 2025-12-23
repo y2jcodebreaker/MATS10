@@ -1,8 +1,5 @@
 # The Fragility of Chain-of-Thought: Epistemic Robustness in Distilled Reasoning Models
 
-**MATS 10.0 Application Project (Winter 2024/25)**
-*Model Biology & Applied Interpretability Track*
-
 ## 🧬 Project Overview
 This project investigates a critical question in Model Biology: **Does "Reasoning" training create a genuine internal Truth Anchor, or is it merely a stylistic imitation?**
 
